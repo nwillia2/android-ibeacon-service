@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1381843739000 17347 74f7ee65d0f7d5a19a3bc206c195fe1c0855fcb2 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/IBeaconService.java
+1381840187000 2107 1d66648278bf267d3ef8944369b71db703c645ab /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/MonitorState.java
+1381840187000 3172 57b7235e380308eca33fce189f6a6da37211bec0 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/IBeaconConsumer.java
+1381840187000 5890 c3f4072c8a1e8214115b23d762496afa41160965 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/IBeaconIntentProcessor.java
+1381840187000 6297 8f03d83bfaf300f0830858a74d6fe5b99c3ad9e5 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/Region.java
+1381840187000 2934 ea19669d00ab9b22426bddf258004f2787800dd3 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/RangingData.java
+1381840187000 14557 516ce22b7d3d7f4251b5c685a7391edd98edec13 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/IBeaconManager.java
+1381840187000 1455 85b94165578e917de523f75d077cda735bfae03e /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/RangeState.java
+1381840187000 1675 3039ac935ac69bc9957ec1562006624243a7da5d /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/RangeNotifier.java
+1381840187000 10251 a552c9220db1a6adcab3fafc5ed3923dea479c21 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/IBeacon.java
+1381840187000 2955 692b73a7f774a37308324232d7c3a6c8e91ad2a7 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/IBeaconData.java
+1381840187000 2556 5ce8047368b3da66e78bbb9371f2ef530b09ed77 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/Callback.java
+1381840187000 2236 bafd6bc00cc9f0357c4c6daa7408a4e4deef662a /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/RegionData.java
+1381840187000 2199 f0a018cf1fbd55c31c4663a5cbaef915fbe2f891 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/StartRMData.java
+1381840187000 2202 5d8aef0379a0a839235c38cd63081ec458e7ba83 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/MonitoringData.java
+1381840187000 2354 32e82006f14a76f79b4333288ca1a4617af60850 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/MonitorNotifier.java
