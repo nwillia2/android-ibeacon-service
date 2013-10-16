@@ -1,7 +1,7 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1381843739000 17347 74f7ee65d0f7d5a19a3bc206c195fe1c0855fcb2 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/IBeaconService.java
+1381847000000 17369 0b5973df007feaa004b37afbc81c7fd67f08df46 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/IBeaconService.java
 1381840187000 2107 1d66648278bf267d3ef8944369b71db703c645ab /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/service/MonitorState.java
 1381840187000 3172 57b7235e380308eca33fce189f6a6da37211bec0 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/IBeaconConsumer.java
 1381840187000 5890 c3f4072c8a1e8214115b23d762496afa41160965 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/src/com/radiusnetworks/ibeacon/IBeaconIntentProcessor.java
