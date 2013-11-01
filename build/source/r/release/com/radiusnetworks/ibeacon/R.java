@@ -14,20 +14,15 @@ public final class R {
         public static int ic_launcher=0x7f020000;
     }
     public static final class string {
-        /**  From: file:/Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/res/values/strings.xml 
-         */
         public static int app_name=0x7f030000;
     }
     public static final class style {
-        /**  From: file:/Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/res/values/styles.xml 
-
+        /** 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: file:/Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
- From: file:/Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/res/values-v14/styles.xml 
  API 14 theme customizations can go here. 
          */
         public static int AppBaseTheme=0x7f040000;

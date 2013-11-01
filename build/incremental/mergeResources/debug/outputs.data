@@ -1,9 +1,9 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1381955334000 344 697665b119fa0406bcbdf3c547abd267905a8557 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/values-v11/values.xml
-1381955334000 852 1683c53fadf89a76840ea775aea295a8a5dc80bb /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/values/values.xml
+1383305126000 365 447527d62920fa495965884bb66ee7bc4eba761b /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/values-v11/values.xml
+1383305126000 894 3d33ad5024b8a4e7ebd0f6eee8fa3cddb5234a76 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/values/values.xml
 1381955334000 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/drawable-mdpi/ic_launcher.png
 1381955334000 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1381955334000 358 e4c815800b1f50ca484162a58ebe21e51021544e /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/values-v14/values.xml
+1383305126000 379 f3c1a669cd4f689a96dcec0848444fb14c85d06d /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/values-v14/values.xml
 1381955334000 14383 82acdd75e3fcc36026109406625edc69d4d7212d /Users/nwillia2/Dropbox/Apps/Android/AndroidStudio/MyFutureProject/android-ibeacon-service/build/res/all/debug/drawable-xhdpi/ic_launcher.png
